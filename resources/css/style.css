@@ -2,15 +2,31 @@ html {
   background-color: black;
   font-family: Verdana;
   text-align: center;
+  color: white;
 }
 
 h1  {
   font-weight: normal;
   font-size: 50px;
-  color: white;
+
 }
 
 a {
   color: Aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  color: gray;
+  text-align:right;
 }
