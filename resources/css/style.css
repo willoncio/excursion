@@ -1,4 +1,4 @@
-.body {
+html {
   background-color: black;
   font-family: Verdana;
   text-align: center;
@@ -10,7 +10,7 @@ h1  {
   color: white;
 }
 
-.a {
+a {
   color: Aquamarine;
   font-size: 16px;
 }
